@@ -1,0 +1,12 @@
+# The following line will handle all files NOT found below
+*               text eol=lf
+
+# Known binary files (these will be kept untouched)
+*.jar           binary
+*.jks           binary
+*.jpg           binary
+*.png           binary
+*.ttf           binary
+
+# Windows files that should always use CRLF
+*.bat           text eol=crlf
