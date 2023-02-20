@@ -31,7 +31,6 @@ local.properties
 !/.idea/encodings.xml
 !/.idea/copyright/
 !/.idea/compiler.xml
-!/.idea/dictionaries/dynamox.dic
 
 # MacOS files
 .DS_Store
